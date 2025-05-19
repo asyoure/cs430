@@ -1,0 +1,23 @@
+1.  main::z g::x g::y
+
+2.  main::z g::x g::y
+
+3.  g::x h::y h::z
+
+4.  main::z
+
+5.  7 2 5
+    7 3 21
+    7 3 21
+
+6.  main::z g::x g::y
+
+7.  h::z g::x h::y
+
+8.  h::z g::x h::y
+
+9.  main::z
+
+10. 7 2 5
+    7 2 14
+    7 3 10
